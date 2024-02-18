@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.header{
+    display: flex;
+    height: 48px;
+    background-color:rgb(237, 94, 94);  
+    align-items: center;
+
+}
+.item-header1 a{
+    font-size: 24px;
+    text-decoration: none;
+    color:white;
+    margin: 0 16px;
+    
+}
+.slide-img img{
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+
+}
+.slide-img {
+    position: relative;
+}
+.slide-img h1{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    color: aliceblue;
+    font-size: 72px;
+    font-family: 'Segoe UI', Tahoma,  Verdana, sans-serif;
+}
+.tet p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.activity p{
+    font-size: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container {
+    padding: 0 80px;
+}
+ol {
+    list-style: none;
+}
+.I p{
+    font-size: medium;
+}
+.I{justify-content: center;}
+
+.II{justify-content: center;}
+
+.II P{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.II IMG{
+    width: 700px;
+    height: 400px;}
+
+.III{
+    justify-content: center;
+}
+
+.III P{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.III img{
+    width: 700px;
+    height: 400PX;
+}
+
+.IV{
+    justify-content: center;
+}
+
+.IV p{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+.IV img{
+    height: 400px;
+   
+    width: 700px;
+}
+
